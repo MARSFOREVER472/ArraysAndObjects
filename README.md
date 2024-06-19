@@ -7,5 +7,5 @@
 
 ### Propiedad Length (Longitud)
 
-const miArray = ["David", "Juan", "Kevin"];
+```const miArray = ["David", "Juan", "Kevin"];```
 
