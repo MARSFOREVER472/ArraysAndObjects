@@ -5,5 +5,5 @@
 
 ```const miArray = ["David", "Juan", "Kevin"];``` 
 
-Propiedad Length
+Propiedad Length (Longitud)
 
