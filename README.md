@@ -1,2 +1,2 @@
 # ArraysAndObjects
-Aplicación en JavaScript para trabajar con arreglos.
+_Aplicación en JavaScript para trabajar con arreglos._
