@@ -3,4 +3,7 @@
 
 ### Crear un Array:
 
-```const miArray = ["David", "Juan", "Kevin"];```
+```const miArray = ["David", "Juan", "Kevin"];``` 
+
+Propiedad Length
+
