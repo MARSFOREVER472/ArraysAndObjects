@@ -9,3 +9,15 @@ const miArreglo = ["David", "Juan", "Kevin"]; // ARREGLO 1.
 const quantity = miArreglo.length; // CANTIDAD DE ELEMENTOS DENTRO DE UN ARREGLO.
 
 console.log(quantity); // IMPRIME EL VALOR NÚMERO 3.
+
+// PARA ACCEDER A AQUELLOS ELEMENTOS:
+
+const myArray = ["Casa", "Baño", "Apertura"]; // ARREGLO 2.
+
+var elemento = myArray[0]; // IMPRIME EL VALOR EN EL ARREGLO DEL PRIMERO, QUE EN ESTE CASO ES "Casa".
+var elemento1 = myArray[1]; // IMPRIME OTRO VALOR, PERO ESTA VEZ EN EL ARREGLO 1, QUE ESTÁ AL MEDIO, QUE EN ESTE CASO ES "Baño".
+var elemento2 = myArray[2]; // IMPRIME EL ÚLTIMO VALOR DEL ARREGLO ("Apertura").
+
+console.log(elemento);
+console.log(elemento1);
+console.log(elemento2);
