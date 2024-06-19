@@ -8,6 +8,7 @@
 ### Propiedad Length (Longitud)
 
 ```const miArray = ["David", "Juan", "Kevin"];```
+
 ```const cant = miArray.length;```
 
 
