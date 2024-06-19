@@ -10,7 +10,7 @@
 ```const miArray = ["David", "Juan", "Kevin"];```
 
 ```const cant = miArray.length;```
-console.log(cant);
+```console.log(cant);```
 
 
 
