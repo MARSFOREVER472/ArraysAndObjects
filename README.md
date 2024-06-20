@@ -19,4 +19,4 @@
 
 ```var nombre = miArray[0];```
 
-console.log(nombre);
+```console.log(nombre);```
