@@ -17,4 +17,4 @@
 
 ```const miArray = ["David", "Juan", "Kevin"];```
 
-var nombre = miArray[0];
+```var nombre = miArray[0];```
