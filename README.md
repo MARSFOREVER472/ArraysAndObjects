@@ -15,3 +15,5 @@
 
 ### Acceder a los elementos:
 
+const miArray = ["David", "Juan", "Kevin"]
+
