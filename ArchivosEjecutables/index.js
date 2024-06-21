@@ -2,6 +2,17 @@
 
 const miArreglo = ["David", "Juan", "Kevin"]; // ARREGLO 1.
 
+// PARA PODER ACCEDER A LOS ELEMENTOS DE DICHO ARREGLO...
+
+var nombre = miArreglo[0]; // DECLARAMOS UNA VARIABLE CON SU TIPO DE DICHA VARIABLE.
+console.log(nombre); // IMPRIME EL VALOR 0 DE ESTE ARREGLO.
+
+nombre = miArreglo[1];
+console.log(nombre); // IMPRIME EL VALOR 1 DE ESTE ARREGLO.
+
+nombre = miArreglo[2];
+console.log(nombre); // IMPRIME EL VALOR 2 DE ESTE ARREGLO.
+
 // const miArreglo = ["David", 156, "Kevin"]; // ARREGLO INCORRECTO!!!!!!
 
 // PROPIEDAD "length" (Longitud):
