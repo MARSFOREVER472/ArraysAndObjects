@@ -28,3 +28,5 @@
 ```console.log(miArray);```
 
 ```miArray.push("Carlos");```
+
+console.log(miArray)
