@@ -24,3 +24,5 @@
 ### Agregar elementos:
 
 ```const miArray = ["David", "Juan", "Kevin"];```
+
+console.log(miArray);
