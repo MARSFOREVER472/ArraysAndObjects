@@ -20,3 +20,5 @@
 ```var nombre = miArray[0];```
 
 ```console.log(nombre);```
+
+Agregar elementos:
