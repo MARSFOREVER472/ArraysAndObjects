@@ -29,4 +29,4 @@
 
 ```miArray.push("Carlos");```
 
-console.log(miArray)
+console.log(miArray);
