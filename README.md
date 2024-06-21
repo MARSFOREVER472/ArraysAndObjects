@@ -32,3 +32,5 @@
 ```console.log(miArray);```
 
 ```miArray.unshift("Carlos");```
+
+console.log(miArray)
