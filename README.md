@@ -26,3 +26,5 @@
 ```const miArray = ["David", "Juan", "Kevin"];```
 
 ```console.log(miArray);```
+
+miArray.push(Carlos);
