@@ -14,6 +14,12 @@ console.log(miArreglo);
 miArreglo.unshift("Carlos");
 console.log(miArreglo);
 
+// PARA QUITAR ELEMENTOS DENTRO DE UN ARREGLO CUALQUIERA (1 O MÁS)...
+
+let final = miArreglo.pop(); // ELIMINA LOS 2 PRIMEROS VALORES DENTRO DEL ARREGLO.
+console.log(miArreglo); // IMPRIME SOLAMENTE EL ÚLTIMO VALOR SIN CONTAR LOS 2 VALORES ELIMINADOS.
+console.log(final); // IMPRIME EL ÚLTIMO VALOR DEL ARREGLO.
+
 // PARA PODER ACCEDER A LOS ELEMENTOS DE DICHO ARREGLO...
 
 var nombre = miArreglo[0]; // DECLARAMOS UNA VARIABLE CON SU TIPO DE DICHA VARIABLE.
