@@ -2,6 +2,18 @@
 
 const miArreglo = ["David", "Juan", "Kevin"]; // ARREGLO 1.
 
+// PARA PODER AGREGAR UN ELEMENTO DENTRO DE UN ARREGLO...
+
+console.log(miArreglo); // LLAMAREMOS AL ARREGLO PRINCIPAL POR DEFECTO.
+
+miArreglo.push("Carlos"); // AGREGAREMOS UN ELEMENTO AL ARREGLO, QUE ESTARÁ EN LA POSICIÓN 3.
+console.log(miArreglo);
+
+// LO GRABAREMOS HACIENDO "UNSHIFT" AL ELEMENTO:
+
+miArreglo.unshift("Carlos");
+console.log(miArreglo);
+
 // PARA PODER ACCEDER A LOS ELEMENTOS DE DICHO ARREGLO...
 
 var nombre = miArreglo[0]; // DECLARAMOS UNA VARIABLE CON SU TIPO DE DICHA VARIABLE.
