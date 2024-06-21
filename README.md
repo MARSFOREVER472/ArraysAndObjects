@@ -25,4 +25,4 @@
 
 ```const miArray = ["David", "Juan", "Kevin"];```
 
-console.log(miArray);
+```console.log(miArray);```
