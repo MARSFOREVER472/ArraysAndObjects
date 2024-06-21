@@ -20,3 +20,17 @@
 ```var nombre = miArray[0];```
 
 ```console.log(nombre);```
+
+### Agregar elementos:
+
+```const miArray = ["David", "Juan", "Kevin"];```
+
+```console.log(miArray);```
+
+```miArray.push("Carlos");```
+
+```console.log(miArray);```
+
+```miArray.unshift("Carlos");```
+
+```console.log(miArray);```
