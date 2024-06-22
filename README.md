@@ -26,6 +26,7 @@
 ```const miArray = ["David", "Juan", "Kevin"];```
 
 ```console.log(miArray);```
+Imprime: David, Juan y Kevin
 
 ```miArray.push("Carlos");```
 
