@@ -32,6 +32,7 @@
 ```miArray.push("Carlos");```
 
 ```console.log(miArray);```
+Imprime: ["David", "Juan", "Kevin"];
 
 ```miArray.unshift("Carlos");```
 
