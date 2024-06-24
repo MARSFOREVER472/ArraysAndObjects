@@ -60,3 +60,5 @@
  ```let inicio = miArray.shift();```
 
  ```console.log(miArray);```
+
+// Imprime: Juan
