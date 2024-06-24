@@ -61,4 +61,4 @@
 
  ```console.log(miArray);```
 
-// Imprime: Juan
+```// Imprime: Juan```
