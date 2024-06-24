@@ -53,4 +53,4 @@
 
 ```// Imprime: ["David", "Juan"];```
 
-console.log(final);
+```console.log(final);```
