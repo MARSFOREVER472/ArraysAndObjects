@@ -59,4 +59,4 @@
 
  ```let inicio = miArray.shift();```
 
- console.log(miArray);
+ ```console.log(miArray);```
