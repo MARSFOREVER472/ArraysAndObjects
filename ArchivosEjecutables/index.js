@@ -41,6 +41,15 @@ const quantity = miArreglo.length; // CANTIDAD DE ELEMENTOS DENTRO DE UN ARREGLO
 
 console.log(quantity); // IMPRIME EL VALOR NÚMERO 3.
 
+// RECORRER / ITERAR EL ARREGLO:
+
+const nombres = ["David", "Juan", "Kevin"];
+
+for (let i = 0; i < nombres.length; i++)
+    {
+        console.log(nombres[i]);
+    }
+
 // PARA ACCEDER A AQUELLOS ELEMENTOS:
 
 const myArray = ["Casa", "Baño", "Apertura"]; // ARREGLO 2.
