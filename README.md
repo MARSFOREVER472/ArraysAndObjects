@@ -39,4 +39,4 @@
 
 ```console.log(miArray);```
 
-Quitar elementos:
+### Quitar elementos:
