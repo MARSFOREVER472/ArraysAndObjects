@@ -45,4 +45,4 @@
 
 ```console.log(miArray);```
 
-Imprime: ["David", "Juan", "Kevin"];
+// Imprime: ["David", "Juan", "Kevin"];
