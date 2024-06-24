@@ -64,3 +64,5 @@
 ```// Imprime: Juan```
 
 ### Recorrer /Iterar un arreglo:
+
+const miArray = ["David", "Juan", "Kevin"];
