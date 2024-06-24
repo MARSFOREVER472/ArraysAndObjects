@@ -27,10 +27,38 @@
 
 ```console.log(miArray);```
 
+```// Imprime: ["David", "Juan", "Kevin"];```
+
 ```miArray.push("Carlos");```
 
 ```console.log(miArray);```
 
+```// Imprime: ["David", "Juan", "Kevin", "Carlos"];```
+
 ```miArray.unshift("Carlos");```
 
 ```console.log(miArray);```
+
+### Quitar elementos:
+
+```const miArray = ["David", "Juan", "Kevin"];```
+
+```console.log(miArray);```
+
+```// Imprime: ["David", "Juan", "Kevin"];```
+
+```let final = miArray.pop();```
+
+```console.log(miArray);```
+
+```// Imprime: ["David", "Juan"];```
+
+```console.log(final);```
+
+ ```// Imprime: Kevin```
+
+ ```let inicio = miArray.shift();```
+
+ ```console.log(miArray);```
+
+```// Imprime: Juan```
