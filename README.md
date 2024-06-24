@@ -41,4 +41,4 @@
 
 ### Quitar elementos:
 
-const miArray = ["David", "Juan", "Kevin"];
+```const miArray = ["David", "Juan", "Kevin"];```
