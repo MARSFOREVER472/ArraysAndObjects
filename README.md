@@ -63,4 +63,4 @@
 
 ```// Imprime: Juan```
 
-Recorrer /Iterar un arreglo:
+### Recorrer /Iterar un arreglo:
