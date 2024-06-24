@@ -57,4 +57,4 @@
 
  ```// Imprime: Kevin```
 
- let inicio = miArray.shift();
+ ```let inicio = miArray.shift();```
