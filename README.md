@@ -62,3 +62,5 @@
  ```console.log(miArray);```
 
 ```// Imprime: Juan```
+
+Recorrer /Iterar un arreglo:
