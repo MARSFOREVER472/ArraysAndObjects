@@ -55,4 +55,4 @@
 
 ```console.log(final);```
 
-Imprime: ["David", "Juan"]
+Imprime: Kevin
