@@ -65,4 +65,4 @@
 
 ### Recorrer /Iterar un arreglo:
 
-const nombres = ["David", "Juan", "Kevin"];
+```const nombres = ["David", "Juan", "Kevin"];```
