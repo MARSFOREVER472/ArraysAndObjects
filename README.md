@@ -49,4 +49,4 @@
 
 ```let final = miArray.pop();```
 
-console.log(miArray);
+```console.log(miArray);```
