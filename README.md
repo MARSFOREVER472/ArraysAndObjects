@@ -38,3 +38,5 @@
 ```miArray.unshift("Carlos");```
 
 ```console.log(miArray);```
+
+Quitar elementos:
