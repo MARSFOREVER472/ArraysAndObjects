@@ -53,4 +53,4 @@
 
 ```// Imprime: ["David", "Juan"];```
 
-console.log(miArray);
+console.log(final);
