@@ -66,3 +66,5 @@
 ### Recorrer /Iterar un arreglo:
 
 ```const nombres = ["David", "Juan", "Kevin"];```
+
+for (int i = 0; i < nombres.length; i++) {
