@@ -65,4 +65,4 @@
 
 ### Recorrer /Iterar un arreglo:
 
-const miArray = ["David", "Juan", "Kevin"];
+const nombres = ["David", "Juan", "Kevin"];
