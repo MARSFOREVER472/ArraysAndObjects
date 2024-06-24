@@ -48,3 +48,5 @@
 ```// Imprime: ["David", "Juan", "Kevin"];```
 
 ```let final = miArray.pop();```
+
+console.log(miArray);
