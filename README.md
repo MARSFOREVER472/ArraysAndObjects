@@ -40,3 +40,5 @@
 ```console.log(miArray);```
 
 ### Quitar elementos:
+
+const miArray = ["David", "Juan", "Kevin"];
