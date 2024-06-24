@@ -56,3 +56,5 @@
 ```console.log(final);```
 
  ```// Imprime: Kevin```
+
+ let inicio = miArray.shift();
