@@ -76,3 +76,4 @@ for (let i = 0; i < nombres.length; i++) {
 ```
 nombres.forEach((elemento)) => {
 console.log(elemento);
+```
