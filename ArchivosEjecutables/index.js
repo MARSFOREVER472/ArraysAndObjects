@@ -45,10 +45,20 @@ console.log(quantity); // IMPRIME EL VALOR NÚMERO 3.
 
 const nombres = ["David", "Juan", "Kevin"];
 
+// 2 ALTERNATIVAS:
+
+// 1.- MEDIANTE UN CICLO "for":
+
 for (let i = 0; i < nombres.length; i++)
     {
         console.log(nombres[i]);
     }
+
+// 2.- MEDIANTE UNA ITERACIÓN DEL CICLO "foreach":
+
+nombres.forEach((elemento) => {
+    console.log(elemento);
+})
 
 // PARA ACCEDER A AQUELLOS ELEMENTOS:
 
